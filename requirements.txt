@@ -1,0 +1,8 @@
+flask>=2.0
+torch>=2.0
+torchvision
+opencv-python
+numpy
+gfpgan
+basicsr
+facexlib
